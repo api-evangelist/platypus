@@ -1,7 +1,25 @@
 aid: platypus
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/platypus.png
 name: Platypus
-description: Platypus is a company surfaced as a portfolio company of speedinvest and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Platypus is a Danish HR-technology company (a Speedinvest portfolio company, invested
+  2019) that built a talent lifecycle management solution for HR managers. Its people-analytics product
+  helped HR professionals measure what employees value at every stage of the talent lifecycle - from
+  attraction through management to retention - using a value-centric approach to company culture built
+  on 12 work-related values across 3 core areas of organizational culture, surfacing individual needs
+  and priorities while protecting employee anonymity. No public API, developer portal, OpenAPI, or other
+  machine-readable API surface was found during enrichment; the company's former domains (getplatypus.com,
+  platypus.ai) are now parked / listed for sale, indicating the product appears to be inactive/defunct.
 url: https://raw.githubusercontent.com/api-evangelist/platypus/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +27,31 @@ x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-identity:
+  sector: HR Tech / People Analytics
+  country: Denmark
+  year_invested: 2019
+  source: https://www.speedinvest.com/portfolio/platypus
+x-api-surface: none-found
+x-status: appears-inactive
+x-status-evidence: former domains getplatypus.com and platypus.ai now parked/for-sale (HugeDomains/Spaceship)
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- HR Tech
+- People Analytics
+- Talent Management
+- Company Culture
+- Employee Engagement
+- Denmark
 apis: []
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
