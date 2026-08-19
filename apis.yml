@@ -35,7 +35,7 @@ x-identity:
 x-api-surface: none-found
 x-status: appears-inactive
 x-status-evidence: former domains getplatypus.com and platypus.ai now parked/for-sale (HugeDomains/Spaceship)
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
