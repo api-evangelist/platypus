@@ -64,6 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Platypus is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No live API surface.** Nothing from this company could be reached the last time it was checked: the site is offline, parked or unreachable, or no public API was found. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: speedinvest
+**Status:** appears-inactive
+
+Platypus is a Danish HR-technology company (a Speedinvest portfolio company, invested 2019) that built a talent lifecycle management solution for HR managers. Its people-analytics product helped HR professionals measure what employees value at every stage of the talent lifecycle - from attraction through management to retention - using a value-centric approach to company culture built on 12 work-related values across 3 core areas of organizational culture, surfacing individual needs and priorities while protecting employee anonymity. No public API, developer portal, OpenAPI, or other machine-readable API surface was found during enrichment; the company's former domains (getplatypus.com, platypus.ai) are now parked / listed for sale, indicating the product appears to be inactive/defunct.
+
+**Areas:** Company · Human Resources · People Analytics · Talent Management · Company Culture · Employee Engagement · Denmark
+
+## Platypus on APIs.io (historical record)
+
+Everything profiled for Platypus is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/platypus/](https://apis.io/providers/platypus/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no live api surface, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Platypus: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/platypus/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
